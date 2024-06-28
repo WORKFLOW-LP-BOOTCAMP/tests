@@ -1,0 +1,15 @@
+{
+    "name": "antoinelucsko/exercices",
+    "autoload": {
+        "psr-4": {
+            "Antoinelucsko\\Exercices\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Antoine07",
+            "email": "antoine.lucsko@gmail.com"
+        }
+    ],
+    "require": {}
+}
