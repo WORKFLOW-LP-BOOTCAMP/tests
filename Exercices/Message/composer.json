@@ -2,7 +2,8 @@
     "name": "antoinelucsko/exercices",
     "autoload": {
         "psr-4": {
-            "Antoinelucsko\\Exercices\\": "src/"
+            "App\\": "src/",
+            "" :"tests/"
         }
     },
     "authors": [
@@ -11,5 +12,7 @@
             "email": "antoine.lucsko@gmail.com"
         }
     ],
-    "require": {}
+    "require-dev": {
+        "phpunit/phpunit": "^11.2"
+    }
 }
